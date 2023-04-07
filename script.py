@@ -1,7 +1,10 @@
+
+# -----------------------------------------------------------------------------------------------------------
 # Shreya B Deshpande
 # This project is done through Codecademy
 # The project prints the list of pizzas and their respective prices. 
 # It also prints the cheapest pizza and priciest pizza.
+# -----------------------------------------------------------------------------------------------------------
 
 # Your code below:
 toppings = ["pepperoni", "pineapple", "cheese", "sausage", "olives", "anchovies", "mushrooms"]
